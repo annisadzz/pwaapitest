@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Cape fox","categori":"Aquamarine"},
+{"id":2,"name":"Monster, gila","categori":"Indigo"},
+{"id":3,"name":"Native cat","categori":"Turquoise"},
+{"id":4,"name":"Albatross, galapagos","categori":"Green"},
+{"id":5,"name":"Golden brush-tailed possum","categori":"Maroon"},
+{"id":6,"name":"Caribou","categori":"Puce"},
+{"id":7,"name":"Indian star tortoise","categori":"Aquamarine"},
+{"id":8,"name":"Defassa waterbuck","categori":"Yellow"},
+{"id":9,"name":"Tortoise, asian foreset","categori":"Violet"},
+{"id":10,"name":"Laughing kookaburra","categori":"Fuscia"},
+{"id":11,"name":"Buffalo, wild water","categori":"Yellow"},
+{"id":12,"name":"Gerbil (unidentified)","categori":"Puce"},
+{"id":13,"name":"Ibex","categori":"Aquamarine"},
+{"id":14,"name":"Cliffchat, mocking","categori":"Yellow"},
+{"id":15,"name":"Western lowland gorilla","categori":"Mauv"},
+{"id":16,"name":"Slender loris","categori":"Red"},
+{"id":17,"name":"Jungle cat","categori":"Red"},
+{"id":18,"name":"Cormorant, javanese","categori":"Pink"},
+{"id":19,"name":"Nutcracker, clark's","categori":"Crimson"},
+{"id":20,"name":"Pale-throated three-toed sloth","categori":"Aquamarine"}
+]
+}
